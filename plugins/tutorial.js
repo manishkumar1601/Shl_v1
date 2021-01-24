@@ -21,6 +21,8 @@ Cuy installation :)
 
 _You can see the tutorial at_
 *Our Youtube:*
+userbot//https://youtu.be/31n_TyWYHhM
+groupbot//
 
 `.trim(), m)
 }
