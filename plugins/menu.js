@@ -37,14 +37,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 █▄█ █▀ █ █▄ █ █▀█ █▄
    Creator
   🤞🏻•••••🤞🏻
-╭══•›「 *INTRO* 」
-│
-│Nama  :SHAHUL HAMEED  
-│phone :919645577195
-│Insta :s_h_l__royalmaster
-│Status:🔥🤙
-│Gender:MALE
-│        Wa/only
+╭══•›「 *Request* 」
+│phone :wa.only
 │   Wa.me/919645577195
 ╰══════════════
 Hi, ${name} 👋
