@@ -31,6 +31,6 @@ Simple WhatsApp Bot
 ```
  SOSMED:
  
- Instagram: s_h_l__royalmaster
+ Instagram: sha.hul_46
  
  Youtube: SHL VLOG
