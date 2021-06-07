@@ -39,12 +39,6 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
    Creator
   🤞🏻•••••🤞🏻
 ╭══•›「 *INTRO* 」
-│
-│Nama  :SHAHUL HAMEED  
-│phone :919645577195
-│Insta :s_h_l__royalmaster
-│Status:🔥🤙
-│Gender:MALE
 │        Wa/only
 │   Wa.me/919645577195
 ╰══════════════
@@ -79,7 +73,6 @@ How to Add XP:
 ╠➥ ${_p}readmore <teks>|<sembunyi>
 ╠➥ ${_p}quran
 ╠➥ ${_p}modApk
-╠➥ ${_p}gtts
 ╠═〘 Group 〙 ═
 ╠➥ ${_p}add[62xxxxxxxxx]
 ╠➥ ${_p}promote [@tagmember]
@@ -101,7 +94,7 @@ How to Add XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 ADVERTISEMENT 〙 ═
-╠➥ Instagram: https://instagram.com/s_h_l__royalmaster?igshid=5r91qr6aoh7b
+╠➥ Instagram: https://instagram.com/sha.hul_x46?utm_medium=copy_link
 ╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
 ║
 ╠═〘 Info Bot 〙 ═
