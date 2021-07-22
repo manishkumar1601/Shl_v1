@@ -2,15 +2,15 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 ╠══〘 క ɦ ℓ__v¹ 〙BOT  ═
 ╠➥  Made in javascript via NodeJs
-╠➥ Rec: ➵͜͡☠🚩⃟⚔҉Sђaͥhuͣlͫ༄🎭᭄༻
+╠➥ Rec: ī.am/𐏕Sђahuī─
 ╠➥ Script: shahul hameed
 ║
 ╠➥ YouTube: https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
-╠➥ instagram: https://instagram.com/s_h_l__royalmaster?igshid=5r91qr6aoh7b
+╠➥ instagram: https://instagram.com/sha.hul_x46?utm_medium=copy_link
 ╠➥ wa.me/+919645577195
 ║
 ╠═〘 Thanks To 〙 ═
-╠➥ ➵͜͡☠🚩⃟⚔҉Sђaͥhuͣlͫ༄🎭᭄༻
+╠➥ Mr.Ravanan
 ╠➥ ™ shahul
 ╠➥ ❤️𝕵𝖚𝖘𝖙 𝕰𝖓𝖏𝖔𝔜 ℑ𝔱❤️
 ║
