@@ -32,14 +32,14 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖═〘 క ɦ ℓ__v¹ 〙BOT  ═🤖
+🤖═〘 Xtro 〙BOT  ═🤖
 █▀█ █▀ ▀ █▀ ▀ █▀█ █
 █▄█ █▀ █ █▄ █ █▀█ █▄
    Creator
   🤞🏻•••••🤞🏻
 ╭══•›「 *Request* 」
 │phone :wa.only
-│   Wa.me/919645577195
+│   Wa.me/919106196230
 ╰══════════════
 Hi, ${name} 👋
 Exp: ${exp}
@@ -55,9 +55,6 @@ How to Add XP:
 ╠➥ ${_p}menu
 ╠➥ ${_p}help
 ╠➥ ${_p}?
-║
-╠═〘 Tutor BoT 〙 ═
-╠➥ ${_p}tutorial
 ║
 ╠═〘 Others 〙 ═
 ╠➥ ${_p}qr <teks>
@@ -94,18 +91,17 @@ How to Add XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 ADVERTISEMENT 〙 ═
-╠➥ Instagram: https://instagram.com/s_h_l__royalmaster?igshid=5r91qr6aoh7b
-╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
+╠➥ Instagram: https://instagram.com/vminkook_manish
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : ═〘 క ɦ ℓ__v¹ 〙BOT  ═
+╠➥ Name : ═〘 Xtro 〙BOT  ═
 ╠➥ Coded using * Nano * on Android \\ w Termux
-╠➥ Request? wa.me//+919645577195
+╠➥ Request? wa.me//+919106196230
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠══〘 క ɦ ℓ__v¹ 〙BOT  ═⭐
+╠══〘 Xtro 〙BOT  ═⭐
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
